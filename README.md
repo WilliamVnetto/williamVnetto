@@ -1,7 +1,7 @@
 ## Prazer me chamo William🤠
 
 - Atualmente estudando HTML e JAVA 
-- Gosto de dialogar e também gosto muito de aprender coisas novas
+- Gosto de dialogar e também amo aprender coisas novas
 - Moro em João Pessoa/pb
 - Futuramente quero abrir portas para o exterior
 - Tenho como meta ser um grande dev Full-Stack
