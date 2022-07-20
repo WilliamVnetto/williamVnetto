@@ -1,4 +1,4 @@
-## Prazer me chamo William🤠
+## Prazer me chamo William
 
 - Atualmente estudando HTML e JAVA 
 - Gosto de dialogar e também amo aprender coisas novas
